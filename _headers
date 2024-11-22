@@ -1,0 +1,4 @@
+/data/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=864000, s-maxage=604800
+  Vary: Accept-Encoding
